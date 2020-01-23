@@ -3,14 +3,14 @@
   <groupId>com.srini.devops</groupId>
   <artifactId>samplewebapp</artifactId>
   <packaging>war</packaging>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>samplewebapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <scm>
   <connection>scm:git:https://github.com/hellotohello/TestRelease.git</connection>
 	  <developerConnection>scm:git:https://github.com/awsdevopsstar/TestRelease.git</developerConnection>
 	  
-    <tag>samplewebapp-1.0</tag>
+    <tag>HEAD</tag>
   </scm>
   <dependencies>
     <dependency>
