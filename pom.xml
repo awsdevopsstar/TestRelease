@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
   <scm>
   <connection>scm:git:https://github.com/hellotohello/TestRelease.git</connection>
-	  <developerConnection>scm:git:https://github.com/hellotohello/TestRelease.git</developerConnection>
+	  <developerConnection>scm:git:https://github.com/awsdevopsstar/TestRelease.git</developerConnection>
 	  
   </scm>
   <dependencies>
